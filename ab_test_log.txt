@@ -1,0 +1,11 @@
+[2025-09-02 11:05:14.833362] ERROR: 'group'
+
+[2025-09-02 11:10:52.928775] ERROR: 'group'
+
+[2025-09-02 11:14:36] A/B Test Result:
+conversion_rate_A: 0.1306
+conversion_rate_B: 0.1587
+z_score: 1.7922
+p_value: 0.0731
+statistically_significant: False
+
